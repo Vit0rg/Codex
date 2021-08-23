@@ -1,5 +1,5 @@
 # CODEX
-## Inspirado na plataforma de streaming Netflix
+## Inspirado na plataforma de entretenimento Netflix
 
 Projeto desenvolvido com base no módulo *"Recriando a inteface da Netflix"*, disponível no Bootcamp HTML WEB DEVELOPER da Digital Inovation One. De forma similar ao popular serviço de streaming são agregados conteúdos da área de T.I. na forma de vídeos (linkados ao Youtube).
 
